@@ -34,7 +34,7 @@ async function main() {
           {
             title: 'Follow Nexus on Twitter',
             content: 'https://twitter.com/nexusgql',
-            published: true,
+            published: false,
           },
         ],
       },
@@ -74,7 +74,7 @@ async function main() {
           {
             title: 'Why I love React',
             content: 'React is my favorite front-end framework and I use it for all my projects.',
-            published: true,
+            published: false,
           },
         ],
       },
